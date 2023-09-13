@@ -32,7 +32,10 @@ public class Collection_task {
 		//System.out.println(r.contains(999));
 		//System.out.println(r);
 		System.out.println(r);
+		System.out.println("exception in java");
+		System.out.println("collection is very difficult in java");
 	}
 
+	
 
 }

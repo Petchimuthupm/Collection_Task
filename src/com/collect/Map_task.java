@@ -30,5 +30,7 @@ public class Map_task {
 		Set<Entry<Integer, String>> x=h.entrySet();
 		System.out.println("Map Entryset:"+x);
 		
+		System.out.println("key per value is called as a map");
+		
 	}
 }
